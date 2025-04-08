@@ -4,4 +4,12 @@
 
 // Call the function [1 pt]
 // Show us the successful POST fetch [1 pt]
-
+function tests(){
+    const potionData = {
+        label: "Invisibility",
+        effect: "Grants invisibility 5 minutes",
+        ingredients: "Moonflower, fur, chameleon",
+        color: "Clear",
+        isExplosive: false
+      };
+}
