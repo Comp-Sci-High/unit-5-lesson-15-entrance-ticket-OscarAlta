@@ -8,7 +8,7 @@ function tests(){
     const potionData = {
         label: "Invisibility",
         effect: "Grants invisibility 5 minutes",
-        ingredients: "Moonflower, fur, chameleon",
+        ingredients: "Moonflower, chameleon",
         color: "Clear",
         isExplosive: false
       };
